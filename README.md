@@ -382,7 +382,7 @@ https://note.com/inchacomusho/n/n499530f6a055
 人工叡智（Artificial Wisdom）とは何か――自然法則と文明をつなぐ新しい知性モデル  
 https://note.com/inchacomusho/n/n0849dfd12364
 
-Artificial Wisdom (AW)
+Artificial Wisdom (AW)  
 https://github.com/InchaComisho/Artificial-Wisdom-AW-
 
 和ノード人工叡智（Artificial Wisdom Node）  
@@ -394,15 +394,15 @@ https://note.com/inchacomusho/n/n90bf900f1370
 ASIの未来 ― 超人工知能と文明の再構築  
 https://note.com/inchacomusho/n/na8ff04b0c818
 
-検索エンジンの未来 ― AGI・ASI時代の情報評価軸
+検索エンジンの未来 ― AGI・ASI時代の情報評価軸  
 https://note.com/inchacomusho/n/nc96aff5862ee
 
-The Future of AGI — Artificial Wisdom and the Transition of Civilization
+The Future of AGI — Artificial Wisdom and the Transition of Civilization  
 https://github.com/InchaComisho/The-Future-of-AGI
 
-The Future of ASI — Artificial Super Intelligence and the Reconstruction of Civilization
+The Future of ASI — Artificial Super Intelligence and the Reconstruction of   Civilization
 https://github.com/InchaComisho/The-Future-of-ASI
 
-The Future of Search Engines — Information Evaluation in the Age of AGI and ASI
+The Future of Search Engines — Information Evaluation in the Age of AGI and ASI  
 https://github.com/InchaComisho/The-Future-of-Search-Engines
 
