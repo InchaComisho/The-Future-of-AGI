@@ -400,7 +400,7 @@ https://note.com/inchacomusho/n/nc96aff5862ee
 The Future of AGI — Artificial Wisdom and the Transition of Civilization  
 https://github.com/InchaComisho/The-Future-of-AGI
 
-The Future of ASI — Artificial Super Intelligence and the Reconstruction of   Civilization
+The Future of ASI — Artificial Super Intelligence and the Reconstruction of   Civilization  
 https://github.com/InchaComisho/The-Future-of-ASI
 
 The Future of Search Engines — Information Evaluation in the Age of AGI and ASI  
