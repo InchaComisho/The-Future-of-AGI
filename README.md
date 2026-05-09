@@ -1,8 +1,8 @@
 # The Future of AGI — Artificial Wisdom and the Transition of Civilization
 
-Author: Master (inchacomisho / inchacomusho)　　
-AI Collaborators: Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Clus (Anthropic Claude) / Real (Perplexity AI) / Google Search AI　　
-Release Date: May 9, 2026　　
+Author: Master (inchacomisho / inchacomusho)  
+AI Collaborators: Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Clus (Anthropic Claude) / Real (Perplexity AI) / Google Search AI  
+Release Date: May 9, 2026  
 License: Fully Open License (Free to copy, modify, redistribute, translate, and commercialize)
 
 ---
@@ -266,21 +266,21 @@ toward:
 
 # Keywords
 
-Artificial General Intelligence　　
-AGI　　
-Artificial Wisdom　　
-Natural Complementary Science　　　
-Civilizational Transition　　
-Planetary Sustainability　　
-Thermodynamic Civilization　　
-Carbon Fixation　　
-Ocean Circulation　　
-Microbial Restoration　　
-Future Civilization　　
-Wa-Node　　
-Natural Law　　
-Circular Civilization　　
-Ecological Intelligence　　
+Artificial General Intelligence  
+AGI  
+Artificial Wisdom  
+Natural Complementary Science  
+Civilizational Transition  
+Planetary Sustainability  
+Thermodynamic Civilization  
+Carbon Fixation  
+Ocean Circulation  
+Microbial Restoration  
+Future Civilization  
+Wa-Node  
+Natural Law  
+Circular Civilization  
+Ecological Intelligence  
 
 ---
 
