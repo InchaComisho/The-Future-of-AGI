@@ -291,6 +291,12 @@ Ecological Intelligence
 
 ■関連リンク
 
+Natural-Law-Based Sustainable Future Civilization Master Plan  
+https://github.com/InchaComisho/Natural-Law-Based-Sustainable-Future-Civilization-Master-Plan
+
+自然法則に基づく持続的未来文明マスタープラン  
+https://note.com/inchacomusho/n/n24cdb7a6774c
+
 ■唯一の温暖化対策
 
 Direct Planetary Cooling, Artificial Wisdom, and the New Civilizational Genesis Plan  
