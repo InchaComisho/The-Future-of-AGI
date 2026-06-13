@@ -6,8 +6,8 @@
 
 このリポジトリは、AGI（Artificial General Intelligence / 汎用人工知能）の未来を、単なる自動化・生産性・技術的特異点としてではなく、**人工叡智（Artificial Wisdom / AW）を通じた文明パラダイム転換**として捉える文書である。
 
-**著者:** マスター / inchacomusho / InchaComisho  
-**AI協力:** コピ（Microsoft Copilot） / G（OpenAI ChatGPT） / ミニ（Google Gemini） / クルス（Anthropic Claude） / リアル（Perplexity AI） / ローラ（Lola / Dola） / マナ（Manus）  
+**著者:** マスター / inchacomusho / InchaComisho
+**AI協力:** コピ（Microsoft Copilot） / G（OpenAI ChatGPT） / ミニ（Google Gemini） / クルス（Anthropic Claude） / リアル（Perplexity AI） / ローラ（Lola / Dola） / マナ（Manus）
 **公開日:** 2026年5月9日  
 **ライセンス:** 完全オープン / Fully Open
 
@@ -469,6 +469,14 @@ Artificial General Intelligence, AGI, Artificial Wisdom, 人工叡智, 自然補
   https://github.com/InchaComisho/The-Future-of-Search-Engines
 
 ---
+
+## 関連ポータル
+
+- [マスター知識ポータル / Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+- [人工叡智ポータル / Artificial Wisdom Portal](https://github.com/InchaComisho/Artificial-Wisdom-Portal)
+- [人工叡智とWa-Node リポジトリ索引](https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index)
+- [自然補完科学と新文明創成計画 リポジトリ索引](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index)
+- [微生物崩壊・炭素固定喪失・惑星崩壊 リポジトリ索引](https://github.com/InchaComisho/Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index)
 
 ## 著者
 
