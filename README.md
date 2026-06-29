@@ -498,6 +498,11 @@ Publicly active around natural law philosophy, Earth circulation regeneration, a
 
 ## License
 
+
+CC BY 4.0
+
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.
 **Fully Open License**
 
 This document may be freely used, translated, modified, redistributed, and commercialized, provided that the author and conceptual origin are respected.
