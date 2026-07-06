@@ -2,6 +2,8 @@
 
 **Language:** English | [日本語版はこちら / Japanese Version](README_ja.md)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## AGI as a Catalyst for Civilizational Paradigm Shift
 
 This repository examines the future of **Artificial General Intelligence (AGI)** not merely as automation, productivity growth, or a technological singularity, but as a possible catalyst for a civilizational paradigm shift through **Artificial Wisdom (AW)**.

@@ -2,6 +2,8 @@
 
 **言語 / Language:** 日本語 | [English Version](README.md)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## The Future of AGI — Artificial Wisdom and the Transition of Civilization
 
 このリポジトリは、AGI（Artificial General Intelligence / 汎用人工知能）の未来を、単なる自動化・生産性・技術的特異点としてではなく、**人工叡智（Artificial Wisdom / AW）を通じた文明パラダイム転換**として捉える文書である。
