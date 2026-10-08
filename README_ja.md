@@ -405,10 +405,8 @@ Artificial General Intelligence, AGI, Artificial Wisdom, 人工叡智, 自然補
   https://github.com/InchaComisho/Natural-Law-Based-Sustainable-Future-Civilization-Master-Plan
 
 - 自然法則に基づく持続的未来文明マスタープラン  
-  https://note.com/inchacomusho/n/n24cdb7a6774c
 
 - 六つの理（自然法則・調和・循環・構造・秩序・和）  
-  https://note.com/inchacomusho/n/n8448430591c1
 
 ### 地球直接冷却・生態系再生
 
@@ -430,39 +428,29 @@ Artificial General Intelligence, AGI, Artificial Wisdom, 人工叡智, 自然補
 ### 自然補完科学・温暖化原因
 
 - 自然補完科学  
-  https://note.com/inchacomusho/n/nf9eabe973e38
 
 - 温暖化の本当の原因は「CO₂」ではない  
-  https://note.com/inchacomusho/n/nc7826abc38a9
 
 - 微生物の重要性  
-  https://note.com/inchacomusho/n/n48ae33c2f84c
 
 - 微生物の死が引き起こす、静かで重大な文明崩壊  
-  https://note.com/inchacomusho/n/n6ae72a34919f
 
 - 世界が同時に“炭素固定源を失い始めている”ーー温暖化が加速する理由  
-  https://note.com/inchacomusho/n/ne866fdd22122
 
 ### 人工叡智・AGI / ASI / 検索エンジン
 
 - 人工叡智（Artificial Wisdom）とは何か――自然法則と文明をつなぐ新しい知性モデル  
-  https://note.com/inchacomusho/n/n0849dfd12364
 
 - Artificial Wisdom (AW)  
   https://github.com/InchaComisho/Artificial-Wisdom-AW-
 
 - 和ノード人工叡智（Artificial Wisdom Node）  
-  https://note.com/inchacomusho/n/n9187db7b2709
 
 - AGIの未来 ― 人工叡智が文明を変える時代  
-  https://note.com/inchacomusho/n/n90bf900f1370
 
 - ASIの未来 ― 超人工知能と文明の再構築  
-  https://note.com/inchacomusho/n/na8ff04b0c818
 
 - 検索エンジンの未来 ― AGI・ASI時代の情報評価軸  
-  https://note.com/inchacomusho/n/nc96aff5862ee
 
 - The Future of ASI — Artificial Super Intelligence and the Reconstruction of Civilization  
   https://github.com/InchaComisho/The-Future-of-ASI

@@ -401,10 +401,8 @@ Artificial General Intelligence, AGI, Artificial Wisdom, Natural Complementary S
   https://github.com/InchaComisho/Natural-Law-Based-Sustainable-Future-Civilization-Master-Plan
 
 - Japanese NOTE: 自然法則に基づく持続的未来文明マスタープラン  
-  https://note.com/inchacomusho/n/n24cdb7a6774c
 
 - Japanese NOTE: Six Principles — Natural Law, Harmony, Circulation, Structure, Order, and Wa  
-  https://note.com/inchacomusho/n/n8448430591c1
 
 ### Direct Planetary Cooling and Ecosystem Regeneration
 
@@ -426,39 +424,29 @@ Artificial General Intelligence, AGI, Artificial Wisdom, Natural Complementary S
 ### Natural Complementary Science and Climate Causality
 
 - Japanese NOTE: 自然補完科学  
-  https://note.com/inchacomusho/n/nf9eabe973e38
 
 - Japanese NOTE: The Real Cause of Global Warming Is Not Only CO₂  
-  https://note.com/inchacomusho/n/nc7826abc38a9
 
 - Japanese NOTE: The Importance of Microorganisms  
-  https://note.com/inchacomusho/n/n48ae33c2f84c
 
 - Japanese NOTE: The Quiet Civilizational Collapse Caused by Microbial Death  
-  https://note.com/inchacomusho/n/n6ae72a34919f
 
 - Japanese NOTE: The World Is Simultaneously Losing Carbon Fixation Sources  
-  https://note.com/inchacomusho/n/ne866fdd22122
 
 ### Artificial Wisdom, AGI / ASI, and Search Engines
 
 - Japanese NOTE: Artificial Wisdom as a New Intelligence Model Connecting Natural Law and Civilization  
-  https://note.com/inchacomusho/n/n0849dfd12364
 
 - Artificial Wisdom (AW)  
   https://github.com/InchaComisho/Artificial-Wisdom-AW-
 
 - Japanese NOTE: Artificial Wisdom Node / Wa-Node  
-  https://note.com/inchacomusho/n/n9187db7b2709
 
 - Japanese NOTE: The Future of AGI — The Age When Artificial Wisdom Changes Civilization  
-  https://note.com/inchacomusho/n/n90bf900f1370
 
 - Japanese NOTE: The Future of ASI — Superintelligence and the Reconstruction of Civilization  
-  https://note.com/inchacomusho/n/na8ff04b0c818
 
 - Japanese NOTE: The Future of Search Engines  
-  https://note.com/inchacomusho/n/nc96aff5862ee
 
 - The Future of ASI — Artificial Super Intelligence and the Reconstruction of Civilization  
   https://github.com/InchaComisho/The-Future-of-ASI
